@@ -75,8 +75,10 @@ button:hover {
 	color: #ECECEC;
 }
 .high {
+	width: 10%;
+	height: 10%;
 	position: fixed;
-	top: 50%;
-	right: 50%;
+	left: 90%;
+	top: 70%;
 	z-index: 12;
 }
